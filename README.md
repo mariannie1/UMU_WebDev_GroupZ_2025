@@ -1,21 +1,13 @@
+# 👥 <font color="red">Group Members</font>
 
-<span style="color: red;">👥 Group Members</span>
+| <font color="red">Name</font> | <font color="red">Registration Number</font> | <font color="red">GitHub Profile</font> |
+|-------------------------------|--------------------------------------------|----------------------------------------|
+| <font color="red"><strong>Namanya Gibson</strong></font> | <font color="red"><strong>2023-B071-13757</strong></font> | <font color="red"><a href="https://github.com/namanyagibson">@namanyagibson</a></font> |
 
-<table>
-<tr style="color: red;">
-<th>Name</th>
-<th>Registration Number</th>
-<th>GitHub Profile</th>
-</tr>
-<tr style="color: red;">
-<td><strong>Namanya Gibson</strong></td>
-<td><strong>2023-B071-13757</strong></td>
-<td><a href="https://github.com/namanyagibson">@namanyagibson</a></td>
-</tr>
-<tr style="color: red;">
 <td><strong>Nassejje Anne</strong></td>
 <td><strong>2023-B071-12353</strong></td>
 <td><a href="https://github.com/mariannie1">@mariannie1</a></td>
 </tr>
 </table>
+
 
